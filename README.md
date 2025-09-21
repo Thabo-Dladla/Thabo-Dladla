@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️My Tech Stack
 - Languages: Python, Java and R
-- Frameworks & Libraries: NumPy
+- Frameworks & Libraries: NumPy,Pytorch
 - Tools: Git,Linux, VS Code,Nmap, Burp Suite and Wire Shark
 
 ## 🚀 Projects I have worked on
