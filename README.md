@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
-- 🎓 I am a second year UCT student majoring in Computer Sciences and Computer Engineering with a background in applied statistics
+- 🎓 I am a 3rd and final year UCT student majoring in Computer Sciences and Computer Engineering
 - 🌱 Currently I am learning: AI(Machine Learning) ,Assembly, Parallel Computing and digital electronics
 - I recently participated in the qualification rounds of the **SANReN Cyber-Security Challenge** as part of a 3 person team for the UCT CS department
 - 💼 I am Open to:freelance work and internships
