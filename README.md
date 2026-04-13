@@ -4,17 +4,22 @@ Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
 - 🎓 I am a 3rd and final year UCT student majoring in Computer Sciences and Computer Engineering
-- 🌱 Currently I am learning: AI(Machine Learning) ,Assembly, Parallel Computing and digital electronics
-- I recently participated in the qualification rounds of the **SANReN Cyber-Security Challenge** as part of a 3 person team for the UCT CS department
-- 💼 I am Open to:freelance work and internships
+- 🌱 Currently I am learning: Deel Learning, Computer Networks and Embedded Systems 
+- I recently participated in the finals of the **SANReN Cyber-Security Challenge** as part of a 4 person team for the UCT CS department as the part of the first ever Computer Science team from UCT to participate in the competition
+- 💼 I am actively looking for Graduate opportunities and internships
 - 📫 How to reach me: thabo.lt@outlook.com
 
 ## 🛠️My Tech Stack
-- Languages: Python, Java and R
+- Languages: Java,Python, MATLAB, SQL and C
 - Frameworks & Libraries: NumPy,Pytorch
 - Tools: Git,Linux, VS Code,Nmap, Burp Suite and Wire Shark
 
 ## 🚀 Projects I have worked on
+- [JavaChatApp](https://github.com/Thabo-Dladla/2nd_year_second_semester):
+- 
+
+
+
 - [Dungeon Hunter Parallel](https://github.com/Thabo-Dladla/2nd_year_second_semester):
   
 - This project simulates a dungeon exploration scenario, inspired by Solo Leveling.
@@ -32,10 +37,12 @@ Imagine you are Sung Jin-Woo, summoning your shadows to search concurrently thro
   
 - Built a Java-based time conversion program that translates digital inputs (HH:MM) into natural-language English, for practicing file I/O, string processing, and problem-solving under practical exam-style conditions.
 
-## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/thabo-dladla-4936b2278)
 
 ---
 
-Thanks for visiting my profile!  
-Hope you learn a lot as you  proceed!
+## Thanks for visiting my profile!  
+## Hope you see something that picks your ## interest and do reach out😉
+
+## 🌐 Connect with me 
+[LinkedIn](https://www.linkedin.com/in/thabo-dladla-4936b2278)
+
