@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
 - 🎓 I am a 3rd and final year UCT student majoring in Computer Sciences and Computer Engineering
-- 🌱 Currently I am learning: Adanced Software developmet, C++ and Embedded Systems 
+- 🌱 Currently I am learning: Advanced Software Engineering, C++ and Embedded Systems 
 - I was part of a finalist team in the **SANReN Cyber-Security Challenge**,being part of the first ever Computer Science team from UCT to participate in the competition
 - 💼 I am actively looking for Graduate opportunities and internships
 - 📫 How to reach me: thabo.lt@outlook.com
