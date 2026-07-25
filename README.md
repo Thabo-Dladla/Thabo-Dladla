@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - Tools: Git,Linux, VS Code,Nmap, Burp Suite and Wire Shark
 
 ## 🚀 Projects I have worked on
-- [JavaChatApp](https://github.com/Thabo-Dladla/JavaChatApp):
+[JavaChatApp](https://github.com/Thabo-Dladla/JavaChatApp):
 - I adapted and extended a Java-based chat application originally inspired by a tutorial from hackr.io
 Implemented several security and architectural additions:
 - TLS-encrpyted communication using Java SSLSockets to ensure messages are not intercepted
@@ -28,7 +28,7 @@ This project allowed to practically implement elements of cyber-saftey into soft
 
 Original reference : hackr.io: https://hackr.io/blog/how-to-build-a-java-chat-app#step-1-setting-up-the-project
 
-- [Persitent Context-Aware AI Agent](https://github.com/Thabo-Dladla/Agentic/blob/main/memory.py):
+[Persitent Context-Aware AI Agent](https://github.com/Thabo-Dladla/Agentic/blob/main/memory.py):
   
 - Built an AI assistant using the OpenAI Agents SDK.
 - Implemented custom function tools for fact extraction and premium-only capabilities
