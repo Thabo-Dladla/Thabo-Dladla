@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile!
 
-## 🙋‍♂️ About Me
-- 🎓 I am a 3rd and final year UCT student majoring in Computer Sciences and Computer Engineering
-- 🌱 Currently I am learning: Advanced Software Engineering, C++ and Embedded Systems 
+## About Me
+- I am a 3rd and final year UCT student majoring in Computer Sciences and Computer Engineering
+- Currently I am learning: Advanced Software Engineering, C++ and Embedded Systems 
 - I was part of a finalist team in the **SANReN Cyber-Security Challenge**,being part of the first ever Computer Science team from UCT to participate in the competition
-- 💼 I am actively looking for Graduate opportunities and internships
-- 📫 How to reach me: thabo.lt@outlook.com
+- I am actively looking for Graduate opportunities and internships
+- How to reach me: thabo.lt@outlook.com
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - Python, Java, C, SQL, XML (XSD, DTD, XSLT), MATLAB
@@ -40,7 +40,7 @@ Welcome to my GitHub profile!
 - Kali Linux
 - Metasploitable 2
 
-## 🚀 Projects I have worked on
+## Projects I have worked on
 [Persitent Context-Aware AI Agent](https://github.com/Thabo-Dladla/Agentic/blob/main/memory.py):
 - Built an AI assistant using the OpenAI Agents SDK.
 - Implemented custom function tools for fact extraction and premium-only capabilities
@@ -73,7 +73,7 @@ Original reference : hackr.io: https://hackr.io/blog/how-to-build-a-java-chat-ap
 ---
 
 ### Thanks for visiting my profile!  
-### Hope you see something that picks your interest and do reach out😉
+### Hope you see something that picks your interest and do reach out😉😉
 
-### 🌐 Connect with me [LinkedIn](https://www.linkedin.com/in/thabo-dladla-4936b2278)
+### Connect with me [LinkedIn](https://www.linkedin.com/in/thabo-dladla-4936b2278)
 
