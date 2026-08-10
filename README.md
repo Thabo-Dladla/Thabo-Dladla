@@ -47,7 +47,7 @@ Welcome to my GitHub profile!
 - Implemented automatic conversation summarization with the aim of reducing token usage and save on storage cost, while preserving long-term context.
 
 
-[VaccieBot – RAG Knowledge Assistant](https://github.com/Thabo-Dladla/Agentic/blob/main/memory.py):
+[VaccieBot – RAG Knowledge Assistant](https://github.com/Thabo-Dladla/RAG-vaccies-chatbot):
 - Built a Retrieval-Augmented Generation (RAG) chatbot using FastAPI, OpenAI, PostgreSQL, and pgvector.
 - Ingested a PDF source and tokenized it into chunks, that the bot uses as its knowledge base to answer user questions.
 - The chatbot uses vector similarity to answer user queries using by fetching the relevant information from the knowledge base, this concept is know as sementic search
